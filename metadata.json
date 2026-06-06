@@ -1,0 +1,6 @@
+{
+  "name": "AURA Immersive Boutique",
+  "description": "A premium luxury minimalist e-commerce showcase inspired by modern editorial storefronts. Features interactive 3D product rotation, custom 3D carousel elements, high-contrast accessibility controls, and a fully functional, elegant cart-to-checkout journey.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
